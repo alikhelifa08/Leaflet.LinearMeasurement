@@ -11,6 +11,7 @@
   <li>Double click event will complete the creation of a polyline and allow the creation of a new polyline.</li>
 
   <li>The polylines can be individually removed from the map.</li>
+<li>hello le monde </li>
 
 </ul>
 
